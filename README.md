@@ -27,7 +27,7 @@ Based on the project's organization, the files are structured as follows:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Rafaration/bank-churn-prediction.git](https://github.com/Rafaration/bank-churn-prediction.git)
+   git clone https://github.com/Rafaration/bank-churn-prediction.git
    ```
 
 2. Install the required dependencies (a virtual environment is recommended):
